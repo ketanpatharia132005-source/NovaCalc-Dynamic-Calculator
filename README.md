@@ -28,26 +28,19 @@ A modern and responsive web-based calculator built using HTML, CSS, and JavaScri
 
 ## 📸 Preview
 
-_Add a screenshot here_
+<img width="1920" height="1200" alt="Screenshot 2026-03-02 224735" src="https://github.com/user-attachments/assets/1019b2cb-3957-4ded-8f88-a887eaf5ef9d" />
 
-```
-![Calculator Screenshot](screenshot.png)
-```
+
+
 
 ---
 
 ## ⚙️ How to Run
 
 1. Download the repository
-2. Open `index.html` in your browser
+2. Open `calculator.html` in your browser
 
----
 
-## 🌐 Live Demo
-
-(You can add GitHub Pages link here after deployment)
-
----
 
 ## 📚 What I Learned
 
@@ -64,7 +57,7 @@ _Add a screenshot here_
 
 Ketan Patharia  
 B.Tech CSE Student  
-Passionate about Web Development & DSA
+
 
 ---
 ⭐ If you like this project, give it a star!
